@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Rot Coin — Get paid to scroll',
+  description: 'A simulated rewards dashboard for earning Rot Coin while watching short-form video.',
   generator: 'v0.app',
   icons: {
     icon: [
